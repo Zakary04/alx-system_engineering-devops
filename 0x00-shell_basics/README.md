@@ -1,2 +1,4 @@
-the first script prints the absolute parh name of the  working directory
-the second script display the contents lis of tour current directory
+Write a script that prints the absolute path name of the current working directory.
+Display the contents list of your current directory.
+Write a script that changes the working directory to the user’s home directory.
+Display current directory contents, including hidden files (starting with .). Use the long format.
