@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown you school
+chown betty school
